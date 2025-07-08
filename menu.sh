@@ -30,7 +30,7 @@ echo -e "${BLUE}│${NC}  🔹 Execution Layer:        ${WHITE}Geth (Sepolia)   
 echo -e "${BLUE}│${NC}  🔹 Consensus Layer:        ${WHITE}Prysm                                     ${BLUE}│${NC}"
 echo -e "${BLUE}│${NC}  🔹 Infrastructure:         ${WHITE}Docker + Azure-hosted setup                ${BLUE}│${NC}"
 echo -e "${BLUE}├──────────────────────────────────────────────────────────────────────────────┤${NC}"
-echo -e "${BLUE}│${NC}  🛠️  Built by:              ${YELLOW}Peripheral | GitHub: https://github.com/0xdaivik           ${BLUE}│${NC}"
+echo -e "${BLUE}│${NC}  🛠️  Built by:              ${YELLOW}Daivik | GitHub: https://github.com/0xdaivik           ${BLUE}│${NC}"
 echo -e "${BLUE}└──────────────────────────────────────────────────────────────────────────────┘${NC}"
     
     echo -e "  📡 Ethereum Sepolia Full Node Setup Menu"
